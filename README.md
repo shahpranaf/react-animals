@@ -5,7 +5,7 @@ This app is created to understand basics of React and maintaining state in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The app allows to add the random Animal when you click on ADD Animal Button. It also allows to like the animal. The more number of likes the larger the heart icon.
 
-[Demo](http://localhost:3000)
+[Demo](https://shahpranaf.github.io/react-animals)
 
 
 Note: The data is not persisted.
